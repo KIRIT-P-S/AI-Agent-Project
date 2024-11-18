@@ -63,6 +63,14 @@ Contributions are what make the open-source community such a fantastic place to 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+## APIs and Tools Used
+Google Drive: Facilitates the upload and retrieval of CSV files for data processing.
+Hugging Face Embeddings: Generates vector embeddings for CSV text data, enhancing similarity search and QA capabilities.
+Chroma: Serves as the vector store for efficient storage and retrieval of embeddings.
+LangChain: Orchestrates complex workflows by connecting embeddings, vector stores, and language models for question-answering tasks.
+Flask: Provides the web framework for building user-facing interfaces and API endpoints.
+dotenv: Manages environment variables for secure handling of API keys and configuration.
+
 ## Contact
 KIRIT P S - [pskirit7545@gmail.com](mailto:pskirit7545@gmail.com)
 
