@@ -1,0 +1,14 @@
+flask
+pandas
+langchain
+langchain_community
+langchain-google-genai
+python-dotenv
+streamlit
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+unstructured
+chromadb
+werkzeug
