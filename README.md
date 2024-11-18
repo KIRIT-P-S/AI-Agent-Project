@@ -1,5 +1,3 @@
-# README Template for GitHub Problem Repository
-
 ## Project Title
 **Problem Solver Tool for AI-Powered Q&A with CSV Processing**
 
@@ -75,11 +73,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 KIRIT P S - [pskirit7545@gmail.com](mailto:pskirit7545@gmail.com)
 
 Project Link: [https://github.com/KIRIT-P-S/Chatbot-Project](https://github.com/KIRIT-P-S/Chatbot-Project)
-
-## Acknowledgments
-- [Name of person/tool/resource]
-- [Another name]
-
----
-Thank you for checking out this project! If you have any questions, feel free to contact me or submit an issue.
-
